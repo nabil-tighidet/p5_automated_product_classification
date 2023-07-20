@@ -1,10 +1,10 @@
 # Projet de Classification Automatique d'Articles pour "Place de marché"
 
-![Place de marché Logo](place_de_mrche.jpg)
+![Place de marché Logo](place_de_marche.jpg)
 
 ## Description du Projet
 
-Bienvenue dans le repository GitHub du projet pour "Place de marché" ! Il s'agit de réaliser une étude de faisabilité pour automatiser l'attribution des catégories d'articles sur la plateforme e-commerce. Actuellement, les vendeurs attribuent manuellement les catégories, ce qui est peu fiable. Pour rendre l'expérience utilisateur fluide et préparer une future montée en charge, nous cherchons à mettre en place un moteur de classification d'articles basé sur leurs images et descriptions.
+Bienvenue dans le repository GitHub du projet (fictif) pour "Place de marché" ! Il s'agit de réaliser une étude de faisabilité pour automatiser l'attribution des catégories d'articles sur la plateforme e-commerce. Actuellement, les vendeurs attribuent manuellement les catégories, ce qui est peu fiable. Pour rendre l'expérience utilisateur fluide et préparer une future montée en charge, nous cherchons à mettre en place un moteur de classification d'articles basé sur leurs images et descriptions.
 
 ## Objectif du Projet
 
